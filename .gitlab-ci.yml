@@ -1,0 +1,8 @@
+stages: [test]
+
+node:
+  stage: test
+  image: node:24-alpine
+  script:
+    - npm run check
+    - npm test

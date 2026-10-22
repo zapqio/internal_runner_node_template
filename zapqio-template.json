@@ -1,0 +1,7 @@
+{
+  "formatVersion": 1,
+  "name": "Node.js module",
+  "description": "Node.js module with example method, tests and CI.",
+  "kind": "Node",
+  "branch": "main"
+}
